@@ -1,0 +1,30 @@
+committee:
+  secretariat:
+    minLevel: 2
+department:
+ceo:
+  limit:
+    max: 730 days
+    min: 100 days
+  titleList:
+   - CEO
+   - 联席CEO
+   - EVP
+   - 执行副总裁
+function:
+  level:
+    manager:
+      max: 8
+      min: 1
+      step: 600 yuan
+    productor:
+      max: 7
+      min: 0
+      step: 500 yuan
+    scientist:
+      max: 6
+      min: 1
+      step: 1000 yuan
+law:
+  salary:
+    min: 3500
