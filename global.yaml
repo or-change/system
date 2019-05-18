@@ -1,6 +1,6 @@
 committee:
   secretariat:
-    minLevel: 2
+    minLevel: 1
 department:
 ceo:
   limit:
